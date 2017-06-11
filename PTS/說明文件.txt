@@ -1,0 +1,7 @@
+PTS_1,PTS_2為練習用
+PTS_1_com,PTS_2_com為練習結束的成果
+
+import檔案時,需要delete舊檔
+
+
+PTS_final為PTS實作完成程式,內存參數不是最精準的,須自行測試更改

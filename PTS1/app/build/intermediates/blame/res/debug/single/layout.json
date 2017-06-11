@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jordan/Documents/Lab助教/PTS1/app/build/intermediates/res/merged/debug/layout/pts_ui.xml",
+        "source": "/Users/jordan/Documents/Lab助教/PTS1/app/src/main/res/layout/pts_ui.xml"
+    },
+    {
+        "merged": "/Users/jordan/Documents/Lab助教/PTS1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/jordan/Documents/Lab助教/PTS1/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/jordan/Documents/Lab助教/PTS1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jordan/Documents/Lab助教/PTS1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/jordan/Documents/Lab助教/PTS1/app/build/intermediates/res/merged/debug/layout/reader.xml",
+        "source": "/Users/jordan/Documents/Lab助教/PTS1/app/src/main/res/layout/reader.xml"
+    }
+]
